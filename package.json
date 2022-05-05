@@ -1,0 +1,19 @@
+{
+  "name": "is-it-a-package",
+  "version": "1.0.0",
+  "description": "Is it a Package?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshalkaigaonkar/is-it-a-package.git"
+  },
+  "author": "harshalkaigaonkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshalkaigaonkar/is-it-a-package/issues"
+  },
+  "homepage": "https://github.com/harshalkaigaonkar/is-it-a-package#readme"
+}
